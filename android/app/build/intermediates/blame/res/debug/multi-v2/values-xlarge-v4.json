@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/saurabh.chauhan/Documents/Projects/react_native_zoom/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/saurabh.chauhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/372884bb5f0b2173829749f01f5b0167/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "99,170,241,311,381,449",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "165,236,306,376,444,512"
+                    }
+                },
+                {
+                    "source": "/Users/saurabh.chauhan/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/5f0c320b23790ff474089d778c2228ef/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    }
+                }
+            ]
+        }
+    ]
+}

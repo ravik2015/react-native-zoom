@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/saurabh.chauhan/Documents/Projects/react_native_zoom/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/saurabh.chauhan/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/5f0c320b23790ff474089d778c2228ef/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "89",
+                        "endOffsets": "140"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "89",
+                        "endOffsets": "413"
+                    }
+                },
+                {
+                    "source": "/Users/saurabh.chauhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/372884bb5f0b2173829749f01f5b0167/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}
